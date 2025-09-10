@@ -1,0 +1,43 @@
+.Botoes_Menu {
+    width: auto;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-left-color: rgb(0, 39, 255);
+    border-right-color: rgb(0, 39, 255);
+    border-top-color: rgb(0, 39, 255);
+    border-bottom-color: rgb(0, 39, 255);
+    height: 10%;
+    font-size: 55px;
+    -unity-text-outline-width: 1px;
+    -unity-text-outline-color: rgb(0, 255, 58);
+    text-shadow: 10px 10px 2.6px rgb(0, 0, 0);
+    transition-duration: 0.1s;
+}
+
+.Botoes_Menu:hover {
+    width: auto;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-left-color: rgb(0, 39, 255);
+    border-right-color: rgb(0, 39, 255);
+    border-top-color: rgb(0, 39, 255);
+    border-bottom-color: rgb(0, 39, 255);
+    height: 10%;
+    font-size: 55px;
+    -unity-text-outline-width: 1px;
+    -unity-text-outline-color: rgb(0, 255, 58);
+    text-shadow: 10px 10px 2.6px rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.75);
+}
